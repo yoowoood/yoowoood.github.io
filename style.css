@@ -619,7 +619,7 @@ body {
     color: #444;
     display: inline-block;
     font-size: 13px;
-    margin: 0 4px;
+    margin: 0 8px 0 4px;
     padding: 8px 10px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
