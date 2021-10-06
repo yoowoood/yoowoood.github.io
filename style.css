@@ -358,7 +358,7 @@ body {
 /*----------------------------------------  3.About area css----------------------------------------*/
 
 .intro-area {
-    background: rgba(0, 0, 0, 0) url("img/background/bg1.jpg") repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) url("https://lymanli-1258009115.cos.ap-guangzhou.myqcloud.com/image/yoowoood/background/bg1.jpg") repeat scroll center top / cover;
     box-shadow: 1px 1px 20px #f1f1f1;
     padding: 200px 0px;
 }
@@ -485,7 +485,7 @@ body {
 /*  4.Portfolio Area/*--------------------------------*/
 
 .portfolio-area {
-    background: rgba(0, 0, 0, 0) url("img/project/bg1.jpg") repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) url("https://lymanli-1258009115.cos.ap-guangzhou.myqcloud.com/image/yoowoood/project/bg1.jpg") repeat scroll center top / cover;
     height: 100%;
     width: 100%;
 }
@@ -649,7 +649,7 @@ body {
 /*  5.project area CSS/*----------------------------------------*/
 
 .project-area {
-    background: rgba(0, 0, 0, 0) url("img/project/bg1.jpg") repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) url("https://lymanli-1258009115.cos.ap-guangzhou.myqcloud.com/image/yoowoood/project/bg1.jpg") repeat scroll center top / cover;
     height: 100%;
     width: 100%;
 }
@@ -668,7 +668,7 @@ body {
 /*  6.blog area CSS/*----------------------------------------*/
 
 .blog-area {
-    background: rgba(0, 0, 0, 0) url("img/blog/bg1.jpg") repeat scroll center top / cover;
+    background: rgba(0, 0, 0, 0) url("https://lymanli-1258009115.cos.ap-guangzhou.myqcloud.com/image/yoowoood/blog/bg1.jpg") repeat scroll center top / cover;
     height: 100%;
     width: 100%;
 }
